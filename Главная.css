@@ -128,6 +128,7 @@
   --animation-custom_in-opacity: 0;
   --animation-custom_in-rotate: 0deg;
   --animation-custom_in-scale: 0.3;
+  box-shadow: 0px 0px 8px 0px rgba(128,128,128,1);
 }
 
 .u-section-2 .u-container-layout-1 {
@@ -147,6 +148,7 @@
   --animation-custom_in-opacity: 0;
   --animation-custom_in-rotate: 0deg;
   --animation-custom_in-scale: 0.3;
+  box-shadow: 0px 0px 8px 0px rgba(128,128,128,1);
 }
 
 .u-section-2 .u-container-layout-2 {
@@ -166,6 +168,7 @@
   --animation-custom_in-opacity: 0;
   --animation-custom_in-rotate: 0deg;
   --animation-custom_in-scale: 0.3;
+  box-shadow: 0px 0px 8px 0px rgba(128,128,128,1);
 }
 
 .u-section-2 .u-container-layout-3 {
@@ -985,6 +988,11 @@
     width: auto;
     margin-right: initial;
     margin-left: initial;
+  }
+
+  .u-section-5 .embed-responsive-1 {
+    left: -39%;
+    top: -39%;
   }
 
   .u-section-5 .u-text-2 {
